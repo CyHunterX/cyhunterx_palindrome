@@ -1,10 +1,10 @@
 # Palindrome detector
 
-`mhartl_palindrome` is a sample Ruby gem created in [_Learn Enough Ruby to Be Dangerous_](https://www.learnenough.com/ruby-tutorial) by Michael Hartl.
+`cyhunterx_palindrome` is a sample Ruby gem created in [_Learn Enough Ruby to Be Dangerous_](https://www.learnenough.com/ruby-tutorial) by Michael Hartl.
 
 ## Installation
 
-To install `mhartl_palindrome`, add this line to your application's `Gemfile`:
+To install `cyhunterx_palindrome`, add this line to your application's `Gemfile`:
 
 ```
 gem 'mhartl_palindrome'
@@ -19,12 +19,12 @@ $ bundle install
 Or install it directly using `gem`:
 
 ```
-$ gem install mhartl_palindrome
+$ gem install cyhunterx_palindrome
 ```
 
 ## Usage
 
-`mhartl_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
+`cyhunterx_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
 
 ```
 $ irb
